@@ -21,10 +21,10 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          Our Recent <strong className="purple">Works </strong>
+          My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects We've worked on recently.
+          Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -34,7 +34,7 @@ function Projects() {
               isBlog={false}
               title="eGroup"
               description="CMS Web Application build with Next.js, TypeScript, Material-UI, and Java. Have features which allows Customer management, Finantial management, Event management and Data management."
-              demoLink="https://dev.egroup-infocenter.com"
+              demoLink="https://egroup-infocenter.com"
             />
           </Col>
 

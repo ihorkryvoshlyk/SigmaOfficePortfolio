@@ -39,7 +39,7 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          SigmaOffice
+          Serhii Vernyhora
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/ihorkryvoshlyk"
+                href="https://github.com/codechallenge21"
                 target="_blank"
                 className="fork-btn-inner"
               >

@@ -14,16 +14,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Ihor kryvoshlyk</h3>
+          <h3>Designed and Developed by Serhii Vernyhora</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SigmaOffice</h3>
+          <h3>Copyright © {year} </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/ihorkryvoshlyk"
+                href="https://github.com/codechallenge21"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ function Footer() {
             </li>
             {/* <li className="social-icons">
               <a
-                href="https://twitter.com/ihorkryvoshlyk"
+                href="https://twitter.com/codechallenge21"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/ihorkryvoshlyk/"
+                href="https://www.linkedin.com/in/codechallenge21/"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/ihorkryvoshlyk"
+                href="https://www.instagram.com/codechallenge21"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"
