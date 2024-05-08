@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="#" target="_blank">Sigma Office Tech</a>
+  <a href="#" target="_blank">A. S. Tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -13,24 +13,25 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://github.com/ihorkryvoshlyk?tab=stars?) &nbsp;
+
+<!-- ![GitHub Repo stars](https://github.com/codechallenge21?tab=stars?) &nbsp; -->
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/ihorkryvoshlyk/sigmaOffice-portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <!-- <a href="https://github.com/codechallenge21/Serhii-portfolio/issues">Report Bug</a> &nbsp; &nbsp; -->
     🔹
-    <a href="https://github.com/ihorkryvoshlyk/sigmaOffice-portfolio/issues">Request Feature</a>
+    <!-- <a href="https://github.com/codechallenge21/Serhii-portfolio/issues">Request Feature</a> -->
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [ihorkryvoshlyk](https://github.com/ihorkryvoshlyk/sigmaOffice-portfolio). Thanks!
+<!-- You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [codechallenge21](https://github.com/codechallenge21/Serhii-portfolio). Thanks! -->
 
 ## Built With
 
-My personal portfolio <a href="#" target="_blank">SigmaOffice.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="#" target="_blank">Serhii.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
