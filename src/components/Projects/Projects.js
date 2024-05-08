@@ -6,8 +6,12 @@ import bs from "../../Assets/Projects/bs.png";
 import bs2 from "../../Assets/Projects/bs2.png";
 import beckly from "../../Assets/Projects/becklyn.png";
 import beckly2 from "../../Assets/Projects/becklyn2.png";
-import eGroup from "../../Assets/Projects/eGroup.png";
-import eGroup2 from "../../Assets/Projects/eGroup2.png";
+import eGroupInfocenter from "../../Assets/Projects/egroup-infocenter-client.png";
+import eGroupInfocenter2 from "../../Assets/Projects/egroup-infocenter-client2.png";
+import dsiSolution from "../../Assets/Projects/dsiSolution.png";
+import dsiSolution2 from "../../Assets/Projects/dsiSolution2.png";
+import egroupMaterial from "../../Assets/Projects/egroup-material.png";
+import egroupMaterial2 from "../../Assets/Projects/egroup-material2.png";
 import familytree from "../../Assets/Projects/familytree.png";
 import familytree2 from "../../Assets/Projects/familytree2.png";
 import fruit from "../../Assets/Projects/fruit.png";
@@ -29,12 +33,34 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={eGroup}
-              nextPath={eGroup2}
+              imgPath={eGroupInfocenter}
+              nextPath={eGroupInfocenter2}
               isBlog={false}
-              title="eGroup"
+              title="eGroup Infocenter Client"
               description="CMS Web Application build with Next.js, TypeScript, Material-UI, and Java. Have features which allows Customer management, Finantial management, Event management and Data management."
-              demoLink="https://egroup-infocenter.com"
+              demoLink="https://www.egroup-infocenter.com"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={dsiSolution}
+              nextPath={dsiSolution2}
+              isBlog={false}
+              title="DSI Solution"
+              description="Customer CMS Web Application for example. Have features which allows Customer management, for contents of the website through inforcenter CMS module."
+              demoLink="https://www.dsi-solution.com"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={egroupMaterial}
+              nextPath={egroupMaterial2}
+              isBlog={false}
+              title="eGroup Material Liabrary"
+              description="eGroup Team Material Component Library build with React.js and storybook. The library contains many useful react components that can be used easily and extended in any project. Also has many custom hooks."
+              demoLink="https://www.chromatic.com/library?appId=6315727d26061e4ff69beeea"
             />
           </Col>
 

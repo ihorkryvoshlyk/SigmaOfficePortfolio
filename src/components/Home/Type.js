@@ -8,8 +8,8 @@ function Type() {
         strings: [
           "Web Development",
           "Blockchain Development",
-          "MERN Stack Technology",
-          "Mobile Application",
+          "Hibrid Mobile Development",
+          "Full Stack Technology",
         ],
         autoStart: true,
         loop: true,

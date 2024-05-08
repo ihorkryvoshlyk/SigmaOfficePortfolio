@@ -42,6 +42,22 @@ function Home2() {
               <i>
                 <b className="purple"> React.js, Next.js, Vue.js and Nuxt.js</b>
               </i>
+              <br />
+              <br />
+              Currently I am working as &nbsp;
+              <i>
+                <b className="purple">Senior Frontend Lead developer </b> at
+                &nbsp;
+                <a
+                  className="purple"
+                  href="https://egroupai.com"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  eGroupAI
+                </a>
+              </i>
+              &nbsp; Company
             </p>
           </Col>
           <Col md={4} className="myAvtar">
