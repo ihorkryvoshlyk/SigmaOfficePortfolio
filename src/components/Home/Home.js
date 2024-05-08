@@ -13,7 +13,7 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
+              <h1 style={{ paddingBottom: 5 }} className="heading">
                 Hello!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">
                   👋🏻
@@ -35,7 +35,7 @@ function Home() {
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "450px" }}
+                style={{ maxHeight: "450px", width: "300px" }}
               />
             </Col>
           </Row>
